@@ -9,7 +9,7 @@ argumentos/parametros para outras funcoes.
 
 def msg():
     return 'msg'
-
+breakpoint()
 
 def msg_completa(msg):
     print(f'A funcao usada e {msg}')
